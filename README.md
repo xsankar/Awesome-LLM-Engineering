@@ -8,3 +8,9 @@
 > | :- |
 > 
 ***
+| Title | Notes |
+|:-|:-|
+| https://github.com/InftyAI/Awesome-LLMOps | |
+| https://github.com/KennethanCeyer/awesome-llmops | |
+***
+
