@@ -10,7 +10,14 @@
 ***
 | Title | Notes |
 |:-|:-|
+| | |
+| https://github.com/rynst/awesome-llm-engineering | |
+| https://github.com/horseee/Awesome-Efficient-LLM | |
+| | |
+| https://github.com/ushakrishnan/awesome-llm-finetuning | |
+| | |
 | https://github.com/InftyAI/Awesome-LLMOps | |
 | https://github.com/KennethanCeyer/awesome-llmops | |
+| | |
 ***
 
