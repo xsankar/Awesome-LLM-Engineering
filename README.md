@@ -14,6 +14,7 @@
 | https://github.com/rynst/awesome-llm-engineering | |
 | https://github.com/horseee/Awesome-Efficient-LLM | |
 | | |
+| https://lmsys.org/projects/ | LMSYS Org develops open models, datasets, systems, and evaluation tools for large models |
 | https://github.com/ushakrishnan/awesome-llm-finetuning | |
 | | |
 | https://github.com/InftyAI/Awesome-LLMOps | |
